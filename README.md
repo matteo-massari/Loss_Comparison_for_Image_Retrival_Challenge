@@ -128,10 +128,10 @@ Loss_Comparison_for_Image_Retrival_Challenge/
 Contributions are welcome!  
 To participate:
 
-1. Fork the project.
-2. Create a feature branch (`git checkout -b feature/new-feature`).
-3. Commit your changes.
-4. Open a pull request describing your changes.
+1. Fork the project
+2. Create a feature branch (`git checkout -b feature/new-feature`)
+3. Commit your changes
+4. Open a pull request describing your changes
 
 ---
 
