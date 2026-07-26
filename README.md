@@ -63,7 +63,7 @@ The following table summarizes the main training settings and results for each l
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/CrispyCocaBoy/Loss_Comparison_for_Image_Retrival_Challenge.git
+git clone https://github.com/matteo-massari/Loss_Comparison_for_Image_Retrival_Challenge.git
 cd Loss_Comparison_for_Image_Retrival_Challenge
 ```
 
